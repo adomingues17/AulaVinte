@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\migrations\\20250625234211_createtblprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\migrations\\20250625234211_createtblprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity-master\\lojaidentity-master\\lojaidentity\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92965734-AAFB-49A0-9E80-D0AD4E7F9B49}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250625234211_CreatetblProdutos.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Migrations\\20250625234211_CreatetblProdutos.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Migrations\\20250625234211_CreatetblProdutos.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Migrations\\20250625234211_CreatetblProdutos.cs",
+              "RelativeToolTip": "LojaIdentity\\Migrations\\20250625234211_CreatetblProdutos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:42:11.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LojaIdentity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:40:40.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Models\\Produto.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Models\\Produto.cs",
+              "RelativeToolTip": "LojaIdentity\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:39:04.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LojaIdentity\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:38:11.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "LojaIdentity\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T23:55:11.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LojaIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T23:56:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Controllers\\RelatorioController.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "LojaIdentity\\Controllers\\RelatorioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:38:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Program.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Program.cs",
+              "RelativeToolTip": "LojaIdentity\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:36:03.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "LojaIdentity\\appsettings.json",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\appsettings.json",
+              "RelativeToolTip": "LojaIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T23:33:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Data\\SeedData.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity-master\\LojaIdentity-master\\LojaIdentity\\Data\\SeedData.cs",
+              "RelativeToolTip": "LojaIdentity\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:29:55.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
