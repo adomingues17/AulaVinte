@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|d:\\impacta\\aspnet\\taulavinte\\testetutorial\\testetutorial\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|solutionrelative:testetutorial\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|d:\\impacta\\aspnet\\taulavinte\\testetutorial\\testetutorial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|solutionrelative:testetutorial\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|d:\\impacta\\aspnet\\taulavinte\\testetutorial\\testetutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|solutionrelative:testetutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|d:\\impacta\\aspnet\\taulavinte\\testetutorial\\testetutorial\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|solutionrelative:testetutorial\\views\\livro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|d:\\impacta\\aspnet\\taulavinte\\testetutorial\\testetutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EEF7DEA-48E6-4384-910A-B154A09866D8}|TesteTutorial\\TesteTutorial.csproj|solutionrelative:testetutorial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "TesteTutorial\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "TesteTutorial\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:06:33.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "TesteTutorial\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "TesteTutorial\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T02:03:13.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LivroController.cs",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Controllers\\LivroController.cs",
-              "RelativeDocumentMoniker": "TesteTutorial\\Controllers\\LivroController.cs",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Controllers\\LivroController.cs",
-              "RelativeToolTip": "TesteTutorial\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:00:50.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Views\\Livro\\Index.cshtml",
-              "RelativeDocumentMoniker": "TesteTutorial\\Views\\Livro\\Index.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\Views\\Livro\\Index.cshtml",
-              "RelativeToolTip": "TesteTutorial\\Views\\Livro\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T01:54:18.853Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\appsettings.json",
+              "RelativeDocumentMoniker": "TesteTutorial\\appsettings.json",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\TesteTutorial\\TesteTutorial\\appsettings.json",
+              "RelativeToolTip": "TesteTutorial\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T23:08:15.263Z",
               "EditorCaption": ""
             }
           ]

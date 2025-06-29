@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity\\lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity\\lojaidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LojaIdentity\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T02:03:36.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "RelativeToolTip": "LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T01:54:26.789Z",
-              "EditorCaption": ""
             }
           ]
         }

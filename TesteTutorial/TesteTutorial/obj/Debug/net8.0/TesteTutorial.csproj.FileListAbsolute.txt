@@ -149,3 +149,4 @@ D:\impacta\aspNet\TAulaVinte\TesteTutorial\TesteTutorial\obj\Debug\net8.0\refint
 D:\impacta\aspNet\TAulaVinte\TesteTutorial\TesteTutorial\obj\Debug\net8.0\TesteTutorial.pdb
 D:\impacta\aspNet\TAulaVinte\TesteTutorial\TesteTutorial\obj\Debug\net8.0\TesteTutorial.genruntimeconfig.cache
 D:\impacta\aspNet\TAulaVinte\TesteTutorial\TesteTutorial\obj\Debug\net8.0\ref\TesteTutorial.dll
+D:\impacta\aspNet\TAulaVinte\TesteTutorial\TesteTutorial\obj\Debug\net8.0\TesteTutorial.sourcelink.json

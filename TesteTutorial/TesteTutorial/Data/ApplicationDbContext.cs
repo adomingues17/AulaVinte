@@ -11,4 +11,12 @@ public class ApplicationDbContext : IdentityDbContext
     {
     }
     public DbSet<Livro> Livros { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Livro>().Property(v => v.Preco).HasPrecision(10, 2);
+
+    }
 }
