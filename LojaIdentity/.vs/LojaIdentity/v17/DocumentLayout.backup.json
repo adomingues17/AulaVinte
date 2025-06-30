@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity\\lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity\\lojaidentity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|d:\\impacta\\aspnet\\taulavinte\\lojaidentity\\lojaidentity\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{087DDB7F-EF06-429B-BBF0-062E87BFF0C9}|LojaIdentity\\LojaIdentity.csproj|solutionrelative:lojaidentity\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "RelativeToolTip": "LojaIdentity\\Views\\Produto\\Index.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LojaIdentity\\Views\\Produto\\Delete.cshtml",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Views\\Produto\\Delete.cshtml",
+              "RelativeToolTip": "LojaIdentity\\Views\\Produto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T01:17:21.162Z",
+              "WhenOpened": "2025-06-30T01:41:34.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "LojaIdentity\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "LojaIdentity\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T01:41:30.211Z",
               "EditorCaption": ""
             }
           ]
