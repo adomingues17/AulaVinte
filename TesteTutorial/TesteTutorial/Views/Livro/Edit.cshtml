@@ -1,6 +1,6 @@
 ﻿@model Livro
 
-<h2>Editar Produto</h2>
+<h2>Editar Livro</h2>
 
 <form asp-action="Edit" method="post">
     <input type="hidden" asp-for="IdLivro" />
@@ -10,14 +10,14 @@
         <span asp-validation-for="Nome" class="text-danger"></span>
     </div>
     <div class="form-group">
-        <label asp-for="Preco"></label>
-        <input asp-for="Preco" class="form-control" />
-        <span asp-validation-for="Preco" class="text-danger"></span>
-    </div>
-    <div class="form-group">
         <label asp-for="Editora"></label>
         <input asp-for="Editora" class="form-control" />
         <span asp-validation-for="Editora" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Preco"></label>
+        <input asp-for="Preco" class="form-control" />
+        <span asp-validation-for="Preco" class="text-danger"></span>
     </div>
     <button type="submit" class="btn btn-success">Salvar</button>
     <a class="btn btn-secondary" asp-action="Index">Cancelar</a>
