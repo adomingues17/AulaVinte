@@ -18,6 +18,7 @@
         <tr>
             <th>@Html.DisplayNameFor(model => model.Nome)</th>
             <th>@Html.DisplayNameFor(model => model.Preco)</th>
+            <th>@Html.DisplayNameFor(model => model.Tipo)</th>
             @if (User.IsInRole("Admin"))
             {
                 <th>Ações</th>
@@ -30,6 +31,7 @@
             <tr>
                 <td>@Html.DisplayFor(modelItem => item.Nome)</td>
                 <td>@Html.DisplayFor(modelItem => item.Preco)</td>
+                <td>@Html.DisplayFor(modelItem => item.Tipo)</td>
                 @if (User.IsInRole("Admin"))
                 {
                     <td>
