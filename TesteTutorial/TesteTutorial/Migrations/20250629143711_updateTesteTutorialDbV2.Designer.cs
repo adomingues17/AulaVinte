@@ -12,8 +12,8 @@ using TesteTutorial.Data;
 namespace TesteTutorial.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250628135513_createTesteTutorialDb")]
-    partial class createTesteTutorialDb
+    [Migration("20250629143711_updateTesteTutorialDbV2")]
+    partial class updateTesteTutorialDbV2
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -231,7 +231,11 @@ namespace TesteTutorial.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdLivro"));
 
+                    b.Property<string>("Editora")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Nome")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Preco")

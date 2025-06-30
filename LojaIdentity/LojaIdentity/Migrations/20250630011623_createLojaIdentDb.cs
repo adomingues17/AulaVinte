@@ -3,10 +3,10 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace TesteTutorial.Migrations
+namespace LojaIdentity.Migrations
 {
     /// <inheritdoc />
-    public partial class createTesteTutorialDb : Migration
+    public partial class createLojaIdentDb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -51,17 +51,18 @@ namespace TesteTutorial.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "Livros",
+                name: "Produtos",
                 columns: table => new
                 {
-                    IdLivro = table.Column<int>(type: "int", nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Tipo = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Preco = table.Column<decimal>(type: "decimal(10,2)", precision: 10, scale: 2, nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Livros", x => x.IdLivro);
+                    table.PrimaryKey("PK_Produtos", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -229,7 +230,7 @@ namespace TesteTutorial.Migrations
                 name: "AspNetUserTokens");
 
             migrationBuilder.DropTable(
-                name: "Livros");
+                name: "Produtos");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

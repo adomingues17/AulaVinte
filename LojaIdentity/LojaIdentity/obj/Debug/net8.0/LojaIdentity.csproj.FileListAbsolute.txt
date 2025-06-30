@@ -149,3 +149,4 @@ D:\impacta\aspNet\TAulaVinte\LojaIdentity\LojaIdentity\obj\Debug\net8.0\refint\L
 D:\impacta\aspNet\TAulaVinte\LojaIdentity\LojaIdentity\obj\Debug\net8.0\LojaIdentity.pdb
 D:\impacta\aspNet\TAulaVinte\LojaIdentity\LojaIdentity\obj\Debug\net8.0\LojaIdentity.genruntimeconfig.cache
 D:\impacta\aspNet\TAulaVinte\LojaIdentity\LojaIdentity\obj\Debug\net8.0\ref\LojaIdentity.dll
+D:\impacta\aspNet\TAulaVinte\LojaIdentity\LojaIdentity\obj\Debug\net8.0\LojaIdentity.sourcelink.json

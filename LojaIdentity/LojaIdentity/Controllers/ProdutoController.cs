@@ -81,5 +81,31 @@ public class ProdutoController : Controller
         return View(produto);
     }
 
+    // GET: Produtos/Delete/5
+    // APENAS Admin
+    [Authorize(Roles = "Admin")]
+    public async Task<IActionResult> Delete(int? id)
+    {
+        // ... (lógica padrão de edit)
+        if (id == null) return NotFound();
+        var produto = await _context.Produtos.FindAsync(id);
+        if (produto == null) return NotFound();
+        return View(produto);
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    [Authorize(Roles = "Admin")]
+    public async Task<IActionResult> Delete(Produto produto)
+    {
+        try
+        {
+            _context.Remove(produto);
+            await _context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException) { /*...*/ throw; }
+        return RedirectToAction(nameof(Index));
+    }
+
     // As actions Delete (GET e POST) também devem ser protegidas com [Authorize(Roles = "Admin")]
 }
