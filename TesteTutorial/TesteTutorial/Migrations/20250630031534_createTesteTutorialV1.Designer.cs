@@ -12,8 +12,8 @@ using TesteTutorial.Data;
 namespace TesteTutorial.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250630020701_updateTesteTutorialV5")]
-    partial class updateTesteTutorialV5
+    [Migration("20250630031534_createTesteTutorialV1")]
+    partial class createTesteTutorialV1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

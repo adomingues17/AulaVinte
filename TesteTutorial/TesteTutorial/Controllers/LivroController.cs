@@ -56,8 +56,7 @@ public class LivroController : Controller
     [ValidateAntiForgeryToken]
     [Authorize(Roles = "Admin")]
     public async Task<IActionResult> Edit(int id, [Bind("IdLivro,Nome,Editora,Preco")] Livro livro)
-    {
-        // ... (lógica padrão de edit POST)
+    {        
         if (id != livro.IdLivro) return NotFound();
         if (ModelState.IsValid)
         {
@@ -86,9 +85,10 @@ public class LivroController : Controller
     [ValidateAntiForgeryToken]
     [Authorize(Roles = "Admin")]
     //public async Task<IActionResult> Delete(Livro livro)
+    //public async Task<IActionResult> Delete([Bind("IdLivro,Nome,Editora,Preco")] Livro livro)
     public async Task<IActionResult> Delete(int id, [Bind("IdLivro,Nome,Editora,Preco")] Livro livro)
     {
-        
+        //var livroDel = await _context.Livros.FindAsync(id);
         try
         {
             _context.Remove(livro.IdLivro);

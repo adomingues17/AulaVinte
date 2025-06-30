@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace TesteTutorial.Migrations
 {
     /// <inheritdoc />
-    public partial class createTesteTutorialDb : Migration
+    public partial class createTesteTutorialV1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -57,7 +57,7 @@ namespace TesteTutorial.Migrations
                     IdLivro = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Editora = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Editora = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Preco = table.Column<decimal>(type: "decimal(10,2)", precision: 10, scale: 2, nullable: false)
                 },
                 constraints: table =>
