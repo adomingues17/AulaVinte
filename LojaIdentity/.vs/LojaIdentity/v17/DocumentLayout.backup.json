@@ -34,8 +34,7 @@
               "RelativeToolTip": "LojaIdentity\\Views\\Produto\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-30T01:41:34.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T01:41:34.68Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "LojaIdentity\\Controllers\\ProdutoController.cs",
               "ToolTip": "D:\\impacta\\aspNet\\TAulaVinte\\LojaIdentity\\LojaIdentity\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "LojaIdentity\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T01:41:30.211Z",
               "EditorCaption": ""

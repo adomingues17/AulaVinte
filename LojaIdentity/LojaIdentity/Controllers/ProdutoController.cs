@@ -37,7 +37,7 @@ public class ProdutoController : Controller
     [HttpPost]
     [ValidateAntiForgeryToken]
     [Authorize(Roles = "Admin")]
-    public async Task<IActionResult> Create([Bind("Id,Nome,Preco")] Produto produto)
+    public async Task<IActionResult> Create([Bind("Id,Nome,Preco,Tipo")] Produto produto)
     {
         if (ModelState.IsValid)
         {
